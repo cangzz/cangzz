@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caner</h1>
 <h3 align="left">Connect with me: </h3>
 <p align="left"> 
-🗣️ ENG / GER / TUR
-🎂 32 Years 
-📫 How to reach me info@itengin.de or Discord:cangz
+🗣️ ENG / GER / TUR <br>
+🎂 32 Years <br>
+📫 How to reach me info@itengin.de or Discord:cangz <br>
 </p>
 
 
