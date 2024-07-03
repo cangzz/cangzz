@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left"> 
 🎂 32 Years <br>
-📫 How to reach me: 📧info@itengin.de or 👾Discord: cangz <br>
+📫 How to reach me: 📧caner@itengin.de or 👾Discord: cangz <br>
 </p>
 
 
