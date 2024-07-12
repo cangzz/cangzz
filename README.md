@@ -23,9 +23,6 @@
 
 
 <h3 align="left">Backend</h4>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
 
 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
